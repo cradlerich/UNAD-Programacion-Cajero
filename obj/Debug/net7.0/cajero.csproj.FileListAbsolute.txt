@@ -1,0 +1,15 @@
+/Users/jose.castro/Repositories/unad/richi/cajero/bin/Debug/net7.0/cajero
+/Users/jose.castro/Repositories/unad/richi/cajero/bin/Debug/net7.0/cajero.deps.json
+/Users/jose.castro/Repositories/unad/richi/cajero/bin/Debug/net7.0/cajero.runtimeconfig.json
+/Users/jose.castro/Repositories/unad/richi/cajero/bin/Debug/net7.0/cajero.dll
+/Users/jose.castro/Repositories/unad/richi/cajero/bin/Debug/net7.0/cajero.pdb
+/Users/jose.castro/Repositories/unad/richi/cajero/obj/Debug/net7.0/cajero.csproj.AssemblyReference.cache
+/Users/jose.castro/Repositories/unad/richi/cajero/obj/Debug/net7.0/cajero.GeneratedMSBuildEditorConfig.editorconfig
+/Users/jose.castro/Repositories/unad/richi/cajero/obj/Debug/net7.0/cajero.AssemblyInfoInputs.cache
+/Users/jose.castro/Repositories/unad/richi/cajero/obj/Debug/net7.0/cajero.AssemblyInfo.cs
+/Users/jose.castro/Repositories/unad/richi/cajero/obj/Debug/net7.0/cajero.csproj.CoreCompileInputs.cache
+/Users/jose.castro/Repositories/unad/richi/cajero/obj/Debug/net7.0/cajero.dll
+/Users/jose.castro/Repositories/unad/richi/cajero/obj/Debug/net7.0/refint/cajero.dll
+/Users/jose.castro/Repositories/unad/richi/cajero/obj/Debug/net7.0/cajero.pdb
+/Users/jose.castro/Repositories/unad/richi/cajero/obj/Debug/net7.0/cajero.genruntimeconfig.cache
+/Users/jose.castro/Repositories/unad/richi/cajero/obj/Debug/net7.0/ref/cajero.dll
